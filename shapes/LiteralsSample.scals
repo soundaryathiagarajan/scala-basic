@@ -1,0 +1,8 @@
+object LiteralsSample{
+	def main(args:Array[String])={
+		val d = 'id //Symbol Literals
+		val d1 = scala.Symbol("id")
+		println(d)
+		println(d1)
+	}
+}
