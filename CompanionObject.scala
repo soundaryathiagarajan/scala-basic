@@ -18,3 +18,4 @@ package com{
 		}
 	}
 }
+/*  case class  with no type paramater is by default Singleton object*/
